@@ -11,7 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2138b91-59c1-4d32-bc74-94f797d9df9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Person.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Text.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/About.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -23,6 +26,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="About" />
+        <option value="Text" />
+        <option value="Person" />
       </list>
     </option>
   </component>
@@ -52,7 +57,7 @@
       <option name="presentableId" value="Default" />
       <updated>1604263830314</updated>
       <workItem from="1604263831821" duration="939000" />
-      <workItem from="1604265002806" duration="2625000" />
+      <workItem from="1604265002806" duration="4005000" />
     </task>
     <servers />
   </component>

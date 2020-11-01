@@ -12,7 +12,7 @@
 
     p {
         color: var(--theme-color);
-}
+    }
 
 </style>
 
