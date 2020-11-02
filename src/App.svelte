@@ -6,6 +6,7 @@
 	import Skills from "./components/Skills.svelte";
 	import Input from "./components/Input.svelte";
 	import Photos from "./components/Photos.svelte"
+	import ButtonCound from "./components/ButtonCount.svelte"
 
 	export let name;
 	export let lastName;
@@ -28,9 +29,8 @@
 	<Text />
 	<Person {...data} />
 	<Skills />
-	<label>
+	<ButtonCound />
 		<Input />
-	</label>
 	<img src={sveltlogo} alt="Logo svelte">
 	<Photos />
 </main>
