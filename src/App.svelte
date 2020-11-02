@@ -1,9 +1,10 @@
 <script>
 
-	import About from "./components/About.svelte"
-	import Text from "./components/Text.svelte"
-	import Person from "./components/Person.svelte"
-	import Skills from "./components/Skills.svelte"
+	import About from "./components/About.svelte";
+	import Text from "./components/Text.svelte";
+	import Person from "./components/Person.svelte";
+	import Skills from "./components/Skills.svelte";
+	import Input from "./components/Input.svelte";
 
 	export let name;
 	export let lastName;
@@ -26,6 +27,9 @@
 	<Text />
 	<Person {...data} />
 	<Skills />
+	<label>
+		<Input />
+	</label>
 	<img src={sveltlogo} alt="Logo svelte">
 </main>
 

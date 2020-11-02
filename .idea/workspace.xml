@@ -11,7 +11,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2138b91-59c1-4d32-bc74-94f797d9df9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/Skills.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Button.svelte" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/components/Input.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/About.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.svelte" afterDir="false" />
@@ -28,6 +29,7 @@
         <option value="Text" />
         <option value="Person" />
         <option value="Skills" />
+        <option value="Button" />
       </list>
     </option>
   </component>
@@ -38,11 +40,15 @@
     <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1jhkhI8JyoXkZkJVYpNVaLF504u" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -61,7 +67,7 @@
       <updated>1604263830314</updated>
       <workItem from="1604263831821" duration="939000" />
       <workItem from="1604265002806" duration="7773000" />
-      <workItem from="1604289419135" duration="2684000" />
+      <workItem from="1604289419135" duration="3741000" />
     </task>
     <servers />
   </component>
@@ -79,6 +85,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="141" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604264959096">
