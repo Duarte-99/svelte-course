@@ -11,10 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e2138b91-59c1-4d32-bc74-94f797d9df9c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/components/Skills.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.svelte" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/About.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/About.svelte" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/Text.svelte" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/Text.svelte" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,11 +27,15 @@
         <option value="About" />
         <option value="Text" />
         <option value="Person" />
+        <option value="Skills" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="2" />
   </component>
   <component name="ProjectId" id="1jhkhI8JyoXkZkJVYpNVaLF504u" />
   <component name="ProjectViewState">
@@ -44,7 +48,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -56,7 +60,8 @@
       <option name="presentableId" value="Default" />
       <updated>1604263830314</updated>
       <workItem from="1604263831821" duration="939000" />
-      <workItem from="1604265002806" duration="5922000" />
+      <workItem from="1604265002806" duration="7773000" />
+      <workItem from="1604289419135" duration="2684000" />
     </task>
     <servers />
   </component>
@@ -73,6 +78,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="141" y="31" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1604264959096">
@@ -83,9 +89,9 @@
       <screen x="0" y="0" width="1366" height="747" />
     </state>
     <state x="466" y="117" width="428" height="512" key="FileChooserDialogImpl/0.0.1366.747/1366.0.1280.1024@0.0.1366.747" timestamp="1604265136234" />
-    <state x="1606" y="95" key="SettingsEditor" timestamp="1604269931010">
-      <screen x="1366" y="0" width="1280" height="1024" />
+    <state x="149" y="13" key="SettingsEditor" timestamp="1604292726811">
+      <screen x="0" y="0" width="1366" height="747" />
     </state>
-    <state x="1606" y="95" key="SettingsEditor/0.0.1366.747/1366.0.1280.1024@0.0.1366.747" timestamp="1604269931010" />
+    <state x="149" y="13" key="SettingsEditor/0.0.1366.747/1366.0.1280.1024@0.0.1366.747" timestamp="1604292726811" />
   </component>
 </project>
