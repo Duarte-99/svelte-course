@@ -5,6 +5,7 @@
 	import Person from "./components/Person.svelte";
 	import Skills from "./components/Skills.svelte";
 	import Input from "./components/Input.svelte";
+	import Photos from "./components/Photos.svelte"
 
 	export let name;
 	export let lastName;
@@ -31,6 +32,7 @@
 		<Input />
 	</label>
 	<img src={sveltlogo} alt="Logo svelte">
+	<Photos />
 </main>
 
 <style>
@@ -48,9 +50,6 @@
 		background-color: #1d3040;
 		color: #bfc2c7;
 	}
-
-
-
 
 	main {
 		text-align: center;
