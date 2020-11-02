@@ -10,11 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e2138b91-59c1-4d32-bc74-94f797d9df9c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/ButtonCound.svelte" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/store/store.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e2138b91-59c1-4d32-bc74-94f797d9df9c" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -68,7 +64,7 @@
       <updated>1604263830314</updated>
       <workItem from="1604263831821" duration="939000" />
       <workItem from="1604265002806" duration="7773000" />
-      <workItem from="1604289419135" duration="6508000" />
+      <workItem from="1604289419135" duration="6826000" />
     </task>
     <servers />
   </component>
