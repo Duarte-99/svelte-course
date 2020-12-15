@@ -1,10 +1,11 @@
 <script>
-    import  Button from "./Button.svelte";
+    import Button from "./Button.svelte";
+
     let someText = `Backend Developer at HardSoftDay`
     let count = 0;
 
-    let styles = {darkMode: false}
-    let stylesLight = {lightMode: false}
+    let styles = { darkMode: false }
+    let stylesLight = { lightMode: false }
 
     function handleClick() {
         count += 1
@@ -14,8 +15,8 @@
         styles.darkMode = !styles.darkMode;
         stylesLight.lightMode = !stylesLight.lightMode;
 
-        window.document.body.classList.toggle("dark-mode")
-        window.document.body.classList.toggle("light-mode")
+        window.document.body.classList.toggle( "dark-mode" )
+        window.document.body.classList.toggle( "light-mode" )
     }
 
 </script>
@@ -30,10 +31,9 @@
 
 <div class="About">
 
-
-    {#if !styles.darkMode}
+    { #if !styles.darkMode }
         <p>
-            {someText}
+            { someText }
         </p>
         <p>
             <span>Light Mode</span>
@@ -49,9 +49,9 @@
 
     <Button text="Click"
             count={count}
-            on:click={handleClick} />
-    <Button text="DarkMode" on:click={toggle()} />
+            on:click={handleClick}/>
+    <Button text="DarkMode" on:click={toggle()}/>
 
-        <button on:click={handleClick}>Click {count === 0 ? '' : count}</button>
-        <button on:click={toggle}>DarkMode</button>
- </div>
+    <button on:click={handleClick}>Click {count === 0 ? '' : count}</button>
+    <button on:click={toggle}>DarkMode</button>
+</div>
